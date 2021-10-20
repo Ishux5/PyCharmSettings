@@ -5,6 +5,7 @@
       <mapping pattern="Aufgabe_1_2_Gruppe_3.py" type="AUTO_DETECTED" />
       <mapping pattern="Aufgabe_1_1_Gruppe_3.py" type="AUTO_DETECTED" />
       <mapping pattern="Aufgabe_1_1_Gruppe_3" type="AUTO_DETECTED" />
+      <mapping pattern="tic-tac-toe" type="Python" />
     </extensionMap>
   </component>
 </application>
